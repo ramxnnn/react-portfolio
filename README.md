@@ -3,7 +3,7 @@
 This is a single-page portfolio website built with **React**, **Vite**, and **TailwindCSS**. It features a minimalistic UI design with a focus on the best user experience (UX). The website also supports a dark mode theme, enhancing visual comfort during different times of the day.
 
 ## Preview
-**[Preview](https://amritkarma.github.io/react-vite-portfolio/)**
+**[Preview](https://react-portfolio-psi-ashy.vercel.app/)**
 
 ## Tech Stack
 
@@ -23,12 +23,12 @@ To run this project locally, follow these steps:
 
 1. ***Clone the repository:***
    ```bash
-   git clone https://github.com/amritkarma/react-vite-portfolio.git
+   git clone https://github.com/ramxnnn/react-portfolio.git
    ```
 
 1. ***project directory:***
    ```bash
-   cd react-vite-portfolio
+   cd react-portfolio
    ```
 
 1. ***npm install:***
@@ -39,10 +39,5 @@ To run this project locally, follow these steps:
 1. ***npm run dev:***
    ```bash
    npm run dev
-   ```
-
-1. ***npm build:***
-   ```bash
-   npm build
    ```
 
