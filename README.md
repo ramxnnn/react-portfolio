@@ -1,6 +1,6 @@
 # React + Vite Portfolio
 
-This is a single-page portfolio website built with **React**, **Vite**, and **TailwindCSS**. It features a minimalistic UI design with a focus on the best user experience (UX). The website also supports a dark mode theme, enhancing visual comfort during different times of the day.
+This is a single-page portfolio website created using React, Vite, and TailwindCSS. It has a clean and simple design, focusing on providing the best user experience (UX). The website also includes a dark mode feature for a more comfortable viewing experience at night.
 
 ## Preview
 **[Preview](https://react-portfolio-psi-ashy.vercel.app/)**
