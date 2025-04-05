@@ -10,7 +10,7 @@ function Header({ lightdark, lightdarkmode, menuopen, menuOpen }) {
                 <div className="">
                     <a href="" className="dark:text-white flex items-center space-x-2">
                         <HiBolt className='w-10 h-10' />
-                        <span className="text-2xl font-bold">Raman Pannu</span>
+                        <span className="text-2xl font-bold">Muskaan</span>
                     </a>
                 </div>
                 <div className="flex items-center space-x-4">

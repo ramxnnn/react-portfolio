@@ -4,4 +4,11 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-})
+  server: {
+    host: '0.0.0.0', // Make the server accessible externally
+    port: 3000,       // You can change the port if needed
+    allowedHosts: [
+      '3000-ramxnnn-react-portfolio-h4qmog5gn1.app.codeanywhere.com'
+    ],
+  }
+});

@@ -7,11 +7,12 @@ function Hero() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-20 md:gap-4 items-center justify-center">
         <div className="flex-1 tracking-wide space-y-4 md:ml-24">
           <h1 className="text-4xl text-center md:text-left md:text-5xl font-bold">
-            Hi, I am Raman Pannu, Frontend Developer
+            Hi, I am Muskaan, User Experience Designer
           </h1>
           <p className="text-base text-center md:text-left text-gray-900 dark:text-gray-400 font-medium">
-            As a dedicated frontend developer, I specialize in creating dynamic, user-friendly interfaces. I aim to
-            bridge the gap between design and functionality, delivering seamless digital experiences.
+            I craft intuitive digital experiences through user-centered design. 
+            Passionate about solving problems through research, prototyping, 
+            and iterative design processes.
           </p>
           <div className="flex items-center justify-center md:justify-start">
             <Link
