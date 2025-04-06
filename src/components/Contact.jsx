@@ -68,27 +68,27 @@ function Contact() {
         <h2 className="text-3xl md:text-4xl text-center font-semibold mb-12">Contact</h2>
         <div className="w-full tracking-wide space-y-4">
           <div className="flex flex-col md:flex-row items-center justify-center gap-4">
-            <a href="mailto:ramanpannu1003@gmail.com" className="text-sm hover:text-gray-400 font-medium flex items-center space-x-2">
+            <a href="mailto:muskaanchhikara06@gmail.com" className="text-sm hover:text-gray-400 font-medium flex items-center space-x-2">
               <HiEnvelope className='w-6 h-6' />
-              <span className="">ramanpannu1003@gmail.com</span>
+              <span className="">muskaanchhikara06@gmail.com</span>
             </a>
-            <a href="tel:+16478881218" className="text-sm hover:text-gray-400 font-medium flex items-center space-x-2">
+            <a href="tel:+16472159908" className="text-sm hover:text-gray-400 font-medium flex items-center space-x-2">
               <HiPhone className='w-6 h-6' />
-              <span className="">(+1) 647–888–1218</span>
+              <span className="">(+1) 647–215–9908</span>
             </a>
             <a href="" className="text-sm hover:text-gray-400 font-medium flex items-center space-x-2">
               <HiMapPin className='w-6 h-6' />
-              <span className="">69 Cinrickbar Drive, Toronto, Ontario, Canada</span>
+              <span className="">Toronto, Ontario, Canada</span>
             </a>
           </div>
           <form action="" method='post' onSubmit={handelsubmit} className="max-w-md mx-auto space-y-4">
             <div className="space-y-2">
               <label htmlFor="name" className="text-sm font-medium">Name</label>
-              <input type="text" name='name' id='name' value={formData.name} onChange={handlechange} className="px-2 py-2 w-full bg-white dark:bg-zinc-900 border border-zinc-700 rounded-md" placeholder='Raman Pannu' required />
+              <input type="text" name='name' id='name' value={formData.name} onChange={handlechange} className="px-2 py-2 w-full bg-white dark:bg-zinc-900 border border-zinc-700 rounded-md" placeholder='Muskaan Chhikara' required />
             </div>
             <div className="space-y-2">
               <label htmlFor="email" className="text-sm font-medium">Email</label>
-              <input type="email" name='email' id='email' value={formData.email} onChange={handlechange} className="px-2 py-2 w-full bg-white dark:bg-zinc-900 border border-zinc-700 rounded-md" placeholder='ramanpannu1003@gmail.com' required />
+              <input type="email" name='email' id='email' value={formData.email} onChange={handlechange} className="px-2 py-2 w-full bg-white dark:bg-zinc-900 border border-zinc-700 rounded-md" placeholder='muskaanchhikara@gmail.com' required />
             </div>
             <div className="space-y-2">
               <label htmlFor="message" className="text-sm font-medium">Message</label>

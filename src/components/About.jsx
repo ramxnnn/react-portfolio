@@ -16,7 +16,7 @@ function About() {
             </p>
           </div>
           <div className="flex-1 flex items-center justify-center">
-            <img src="./raman-profile.jpeg" className="w-72 h-72 object-cover rounded-2xl shadow-lg hover:shadow-xl hover:rotate-6 transition duration-200" />
+            <img src="./muskaan-profile.jpg" className="w-72 h-72 object-cover rounded-2xl shadow-lg hover:shadow-xl hover:rotate-6 transition duration-200" />
           </div>
         </div>
       </div>

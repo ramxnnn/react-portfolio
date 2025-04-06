@@ -28,8 +28,8 @@ function Hero() {
         </div>
         <div className="flex-1 flex items-center justify-center">
           <img
-            src="./raman-profile.jpeg"
-            alt="Raman Pannu"
+            src="./muskaan-profile.jpg"
+            alt="Muskaan"
             className="w-80 h-80 md:w-96 md:h-96 object-cover rounded-full"
           />
         </div>
